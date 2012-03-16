@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="38e6d831-e564-440d-8cfa-8451a69d6cc4" name="Default" comment="" />
+=======
+    <list default="true" id="38e6d831-e564-440d-8cfa-8451a69d6cc4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/user_spec.rb" />
+      <change type="DELETED" beforePath="C:\dev\home\Carter\rails_projects\sample_app\app\models\users.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+    </list>
+>>>>>>> userdb-stuff
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,10 +37,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3380682">
+=======
+      <file leaf-file-name="user_spec.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="20" selection-start="2471" selection-end="2471" vertical-scroll-proportion="0.4349711">
+              <folding>
+                <element signature="e#829#934#0" expanded="false" />
+                <element signature="e#1136#1224#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="88" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
+>>>>>>> userdb-stuff
               <folding />
             </state>
           </provider>
@@ -50,8 +80,13 @@
       <list>
         <option value="$PROJECT_DIR$/db/migrate/20120316151235_add_index_to_users_email.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
+=======
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
+>>>>>>> userdb-stuff
       </list>
     </option>
   </component>
@@ -188,7 +223,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="settings.github" />
+<<<<<<< HEAD
     <property name="dynamic.classpath" value="false" />
+=======
+>>>>>>> userdb-stuff
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -197,6 +235,7 @@
       <recent name="C:\dev\home\Carter\rails_projects\sample_app\spec\models" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Query Language Console.Default">
     <configuration default="false" name="Default" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console" temporary="true">
       <option name="VM_PARAMETERS" value="" />
@@ -204,6 +243,9 @@
       <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
+=======
+  <component name="RunManager" selected="Rails.Development: sample_app">
+>>>>>>> userdb-stuff
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -309,6 +351,7 @@
         <option name="RakeTask" enabled="false" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
       <option name="VM_PARAMETERS" value="" />
       <option name="USER_CFG_CLASS" />
@@ -317,6 +360,8 @@
         <option name="RakeTask" enabled="false" />
       </method>
     </configuration>
+=======
+>>>>>>> userdb-stuff
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="sample_app" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -393,12 +438,19 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <list size="5">
+=======
+    <list size="4">
+>>>>>>> userdb-stuff
       <item index="0" class="java.lang.String" itemvalue="Rake.test" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
       <item index="2" class="java.lang.String" itemvalue="Rails.Production: sample_app" />
       <item index="3" class="java.lang.String" itemvalue="Rails.Development: sample_app" />
+<<<<<<< HEAD
       <item index="4" class="java.lang.String" itemvalue="Query Language Console.Default" />
+=======
+>>>>>>> userdb-stuff
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -430,9 +482,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="538" y="0" width="902" height="900" extended-state="0" />
+<<<<<<< HEAD
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7004773" sideWeight="0.651325" order="3" side_tool="false" content_ui="tabs" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7008" sideWeight="0.651325" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> userdb-stuff
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -509,13 +567,42 @@
         <state line="25" column="43" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.3380682">
+=======
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120316152314_add_password_digest_to_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="42" selection-start="130" selection-end="130" vertical-scroll-proportion="0.15178572" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120316151235_add_index_to_users_email.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.049132947" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="88" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
+>>>>>>> userdb-stuff
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="20" selection-start="2471" selection-end="2471" vertical-scroll-proportion="0.4349711">
+          <folding>
+            <element signature="e#829#934#0" expanded="false" />
+            <element signature="e#1136#1224#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> userdb-stuff
   </component>
 </project>
 
